@@ -24,6 +24,6 @@ A aplicação é baseada em tecnologia web, Servlets Java.
 1. Clone este repositório em sua máquina local
 2. Importe o projeto em sua IDE de preferência (Eclipse, IntelliJ, NetBeans, etc.)
 3. Execute o servidor de aplicação (Tomcat, Jetty, etc.)
-4. Abra o navegador web e acesse o endereço http://localhost:8080/candidatura
+4. Abra o navegador web e acesse o endereço http://localhost:8080/FormCanada_war_exploded/
 5. Preencha o formulário de candidatura e clique no botão "Enviar"
 6. Caso algum campo esteja em branco ou preenchido incorretamente, uma mensagem de erro será exibida. Caso contrário, as informações serão mostradas na tela devidamente formatadas para o usuário.
