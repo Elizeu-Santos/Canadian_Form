@@ -22,7 +22,7 @@
 
     <div class="section-break"></div>
     <label>Idioma Nativo:</label><br>
-    <input type="radio" name="idioma" id="ingles" value="ingles" required>
+    <input type="radio" name="idioma" id="ingles" value="ingles" required checked>
     <label for="ingles"><img src="https://flagcdn.com/16x12/us.png" alt="US Flag"> Inglês</label><br>
     <input type="radio" name="idioma" id="espanhol" value="espanhol" required>
     <label for="espanhol"><img src="https://flagcdn.com/16x12/es.png" alt="Spain Flag"> Espanhol</label><br>
@@ -31,7 +31,7 @@
     <div class="section-break"></div>
 
     <label>Habilidades Técnicas:</label><br>
-    <input type="checkbox" name="habilidades" id="java" value="java">
+    <input type="checkbox" name="habilidades" id="java" value="java" checked>
     <label for="java">Java</label><br>
     <input type="checkbox" name="habilidades" id="javascript" value="javascript">
     <label for="javascript">JavaScript</label><br>

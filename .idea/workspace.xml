@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5adb885f-52ff-41ea-ab9b-22c8357b62a7" name="Changes" comment="" />
+    <list default="true" id="5adb885f-52ff-41ea-ab9b-22c8357b62a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -177,6 +183,10 @@
       <workItem from="1680978106353" duration="4395000" />
       <workItem from="1680985372300" duration="5849000" />
       <workItem from="1680991391945" duration="395000" />
+      <workItem from="1681047148456" duration="165000" />
+      <workItem from="1681165500330" duration="261000" />
+      <workItem from="1681165789747" duration="1123000" />
+      <workItem from="1681166948022" duration="7512000" />
     </task>
     <servers />
   </component>
